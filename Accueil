@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suivi Animal</title>
+</head>
+<body>
+
+<h1>Suivi Animal</h1>
+
+<a href="https://drive.google.com/file/d/1L6hAnQzWpi_6ctIeMjdlFA6NyrbIii7z/view?usp=sharing">lien</a>
+
+<div>
+    <p><a href="Informations.html">Informations</a></p>
+    <p><a href="Graphique.html">Graphique</a></p>
+</div>
+
+</body>
+</html>
